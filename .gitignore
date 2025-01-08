@@ -1,2 +1,7 @@
-
 .env
+__pycache__/
+*.py[cod]
+dist/
+src/Data/
+src/ragtranscript/db/
+

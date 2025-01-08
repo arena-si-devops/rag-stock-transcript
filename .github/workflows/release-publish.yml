@@ -1,3 +1,4 @@
+name: "Release debug/test stuff"
 on:
   push:
     # Sequence of patterns matched against refs/tags
