@@ -25,5 +25,5 @@ jobs:
         uses: abatilo/actions-poetry@v4
         with:
           poetry-version: ${{ matrix.poetry-version }}
-      - name: View poetry --help
-        run: poetry --help
+      - name: Poetry build
+        run: poetry build
